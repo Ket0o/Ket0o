@@ -44,6 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/docker.png" height="40" alt="docker logo"  />
+  <img width="12" />
 </div>
 
 ###
