@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📔 I am a 3rd year student of TUSUR.<br>📚 I'm currently studying C#, asp.net and everything related to it.<br>🎯 Become the best version of yourself.</p>
+<p align="left">📔 I am a 4rd year student of TUSUR.<br>📚 I'm currently studying C#, asp.net and everything related to it.<br>🎯 Become the best version of yourself.</p>
 
 ###
 
