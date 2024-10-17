@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I work for Financial Technology Center as a C# backend developer. At work, I write new functionality of different levels and fix bugs. I also study in TUSUR in my 4rd year, and in my free time I try to develop my programming skills. I read books, program and develop.</p>
+<p align="left">I work for Financial Technology Center as a full-stack developer. At work, I write new functionality of different levels and fix bugs. I also study in TUSUR in my 4rd year, and in my free time I try to develop my programming skills. I read books, program and develop.</p>
 
 ###
 
